@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">V1_S24_MAD_1</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="student_app">Student App</string>
+    <string name="enter_your_semester">Enter your semester</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="result_name">NAME : </string>
+    <string name="sem">"\nSEM  : "</string>
+    <string name="something_is_missing">Something is missing</string>
+</resources>
